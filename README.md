@@ -1,4 +1,4 @@
-# Jogo do Amigo Secreto
+# 🎮 Jogo do Amigo Secreto
 
 # 🔖 Sobre
 Projeto de um jogo do amigo secreto realizado no curso da alura de lógica de programação
